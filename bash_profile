@@ -37,7 +37,7 @@ if [ "$PS1" ]; then
     if [ -z "$diff" ]; then
       echo " 0 file changed, 0 insertion(+), 0 deletion(-) :D "
     else
-      echo "${diff}"
+      echo " ${diff} :( "
     fi
   }
 
