@@ -76,3 +76,11 @@ alias ss='solr start'
 alias integrate='RAILS_ENV=test time rake integrate'
 alias mysql=/usr/local/mysql/bin/mysql
 alias mysqladmin=/usr/local/mysql/bin/mysqladmin
+alias gp='git push '
+alias gpl='git pull '
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gcm='git commit -m '
+alias gd='git diff'
+alias go='git checkout '
